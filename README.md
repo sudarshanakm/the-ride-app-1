@@ -1,1 +1,2 @@
 # the-ride-app
+newline
